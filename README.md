@@ -46,7 +46,7 @@ Aplicativo mobile criado com React Native e Expo para ajudar estudantes a se pre
 ### 🦷 [Whitetooth](https://github.com/RobertoSantos98/Whitetooth)
 Sistema desenvolvido para uma clínica odontológica com controle de agendamentos, pacientes e serviços.
 
-- Backend em Java com Spring Boot e PostgreSQL
+- Backend em C# com .Net e PostgreSQL
 - Padrão MVC com autenticação e CRUD completo
 - Projeto pessoal com foco em solução real
 
