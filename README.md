@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Roberto 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;React+Native+%7C+Spring+Boot+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;React+Native+%7C+JAVA+%7C+C%23" alt="Typing SVG" />
 </p>
 
 ---
